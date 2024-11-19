@@ -1,0 +1,17 @@
+{
+    "flowNode": {
+        "routerConfigKey": "pick_first",
+        "router": [
+            {
+                "flowNode": {
+                    "routerConfigKey": "pick_first",
+                    "router": [
+                        {
+                            "flowNode": {}
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
